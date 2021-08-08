@@ -14,7 +14,6 @@
 ## Table of contents
 
 - [Features](#features)
-- [Sponsors 🏆](#sponsors)
 - [**Build your website in 3 steps**](#build-your-website-in-3-steps)
 - [Plans](#plans)
 - [Add your own content](#add-your-own-content)
@@ -41,15 +40,6 @@ __Check out [*What's New?*](https://beautifuljekyll.com/updates/) to see the lat
 - **Search**: Let users easily find any page using a Search button in the navigation bar.
 - **Photos support**: Any page can have a full-width cover photo and thumbnail.
 - **RSS**: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.
-
-<h2 id="sponsors">Sponsors 🏆</h2>
-
-Developing and maintaining Beautiful Jekyll takes a lot of time and effort - thank you to anyone who helps fund this effort!
-
-- [Matt Artist](https://mja00.dev/)
-- [\_hyp3ri0n](https://hyperiongray.com)
-
-[Become a sponsor for Beautiful Jekyll and unlock special rewards\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)
 
 # Build your website in 3 steps
 
