@@ -15,7 +15,8 @@ author: LoP Administration
 
 navbar-links:
   About: "about"
-  Discord: "https://discord.gg/cj9Qr9p6Zv"
+  Discord: 
+    - FF-LoP-GLD: "https://discord.gg/cj9Qr9p6Zv"
   Allies: "allies"
   Organization: "organization"
   History: "history"
